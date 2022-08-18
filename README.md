@@ -1,3 +1,9 @@
+# my-chess
+```
+This app created for practicum create a app on React.
+Used material from the Ulbi TV canal.
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
